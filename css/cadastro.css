@@ -1,0 +1,99 @@
+
+body{
+    background-color: blueviolet;
+}
+
+.divs{
+
+margin: 5% 0px 0px 25%;
+width: 50%;
+height: 300px;
+
+}
+
+#cadastro{
+    margin: 0px 0px 0px 38%;
+    font-size: 40px;
+    color: white;
+}
+
+.titulos{
+    margin: 5% 0px 5% 19%;
+    font-size: 30px;
+    color: white;
+
+}
+
+.inputs{
+width: 60%;
+height: 30px;
+margin: 0px 0px 0px 19%;
+border-radius: 20px;
+border: none;
+    
+}
+
+.labels{
+    margin: 0px 0px 0px 19%;
+    font-size: 25px;
+    font-family: fantasy;
+    color: white;
+}
+
+.inputs2{
+    width: 28%;
+    height: 30px;
+    margin: 0px 0px 0px 19%;
+    border-radius: 20px;
+    border: none;
+}
+
+.mover{
+    margin-left: 2%;
+}
+
+.labels2{
+    margin: 0px 0px 0px 19%;
+    font-size: 25px;
+    font-family: fantasy;
+    color: white;
+}
+
+#confSenha{
+    margin-left: 22%;
+}
+
+#cidade{
+    margin-left: 21%;
+}
+
+#numero{
+    margin-left: 26%;
+}
+
+.botao{
+    margin: 0px 0px 0px 32%;
+    width: 15%;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+.botao:hover{
+    background-color: rebeccapurple;
+}
+
+#botao2{
+    margin-left: 5%;
+}
+
+#checkbox{
+    margin: 5% 0px 0px 27%;
+}
+
+#checar{
+    font-size: 23px;
+}
